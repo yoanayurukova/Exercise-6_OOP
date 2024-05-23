@@ -1,0 +1,16 @@
+C:\Users\Kostadin Raychev\Desktop\PU\2024-Uprajneniq\Upr6\Upr_6_OOP_Heroes\obj\Debug\net5.0\Upr_6_OOP_Heroes.csproj.AssemblyReference.cache
+C:\Users\Kostadin Raychev\Desktop\PU\2024-Uprajneniq\Upr6\Upr_6_OOP_Heroes\obj\Debug\net5.0\Upr_6_OOP_Heroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kostadin Raychev\Desktop\PU\2024-Uprajneniq\Upr6\Upr_6_OOP_Heroes\obj\Debug\net5.0\Upr_6_OOP_Heroes.AssemblyInfoInputs.cache
+C:\Users\Kostadin Raychev\Desktop\PU\2024-Uprajneniq\Upr6\Upr_6_OOP_Heroes\obj\Debug\net5.0\Upr_6_OOP_Heroes.AssemblyInfo.cs
+C:\Users\Kostadin Raychev\Desktop\PU\2024-Uprajneniq\Upr6\Upr_6_OOP_Heroes\obj\Debug\net5.0\Upr_6_OOP_Heroes.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin Raychev\Desktop\PU\2024-Uprajneniq\Upr6\Upr_6_OOP_Heroes\bin\Debug\net5.0\Upr_6_OOP_Heroes.exe
+C:\Users\Kostadin Raychev\Desktop\PU\2024-Uprajneniq\Upr6\Upr_6_OOP_Heroes\bin\Debug\net5.0\Upr_6_OOP_Heroes.deps.json
+C:\Users\Kostadin Raychev\Desktop\PU\2024-Uprajneniq\Upr6\Upr_6_OOP_Heroes\bin\Debug\net5.0\Upr_6_OOP_Heroes.runtimeconfig.json
+C:\Users\Kostadin Raychev\Desktop\PU\2024-Uprajneniq\Upr6\Upr_6_OOP_Heroes\bin\Debug\net5.0\Upr_6_OOP_Heroes.runtimeconfig.dev.json
+C:\Users\Kostadin Raychev\Desktop\PU\2024-Uprajneniq\Upr6\Upr_6_OOP_Heroes\bin\Debug\net5.0\Upr_6_OOP_Heroes.dll
+C:\Users\Kostadin Raychev\Desktop\PU\2024-Uprajneniq\Upr6\Upr_6_OOP_Heroes\bin\Debug\net5.0\ref\Upr_6_OOP_Heroes.dll
+C:\Users\Kostadin Raychev\Desktop\PU\2024-Uprajneniq\Upr6\Upr_6_OOP_Heroes\bin\Debug\net5.0\Upr_6_OOP_Heroes.pdb
+C:\Users\Kostadin Raychev\Desktop\PU\2024-Uprajneniq\Upr6\Upr_6_OOP_Heroes\obj\Debug\net5.0\Upr_6_OOP_Heroes.dll
+C:\Users\Kostadin Raychev\Desktop\PU\2024-Uprajneniq\Upr6\Upr_6_OOP_Heroes\obj\Debug\net5.0\ref\Upr_6_OOP_Heroes.dll
+C:\Users\Kostadin Raychev\Desktop\PU\2024-Uprajneniq\Upr6\Upr_6_OOP_Heroes\obj\Debug\net5.0\Upr_6_OOP_Heroes.pdb
+C:\Users\Kostadin Raychev\Desktop\PU\2024-Uprajneniq\Upr6\Upr_6_OOP_Heroes\obj\Debug\net5.0\Upr_6_OOP_Heroes.genruntimeconfig.cache
